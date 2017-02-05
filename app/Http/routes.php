@@ -16,9 +16,30 @@
  * 前台路由
  * ========================================================================
  */
-Route::group(['middleware' => ['web'], 'prefix' => 'home', 'namespace' => 'Weihome'], function () {
-    Route::get('/','IndexController@index');
+Route::group(['middleware' => ['web'], 'namespace' => 'Weihome'], function () {
+    //前台首页
+    Route::get('/', 'IndexController@index');
 });
+
+/**
+ * ========================================================================
+ * 后台登录退出路由
+ * ========================================================================
+ */
+Route::group(['middleware' => ['web'], 'prefix' => 'admin', 'namespace' => 'Weicms'], function () {
+    //登录
+    Route::get('login', 'IndexController@index');
+});
+/**
+ * ========================================================================
+ * 后台路由
+ * ========================================================================
+ */
+Route::group(['middleware' => ['web', 'admin.login'], 'prefix' => 'admin', 'namespace' => 'Weicms'], function () {
+    //前台首页
+    Route::get('/', 'IndexController@index');
+});
+
 
 //Route::get('/', function () {
 //    return view('welcome');
