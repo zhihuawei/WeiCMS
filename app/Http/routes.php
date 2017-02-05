@@ -16,13 +16,13 @@
  * 前台路由
  * ========================================================================
  */
-Route::group(['middleware' => ['web']], function () {
-    
+Route::group(['middleware' => ['web'], 'prefix' => 'home', 'namespace' => 'Weihome'], function () {
+    Route::get('/','IndexController@index');
 });
 
-Route::get('/', function () {
-    return view('welcome');
-});
+//Route::get('/', function () {
+//    return view('welcome');
+//});
 
 /*
 |--------------------------------------------------------------------------
