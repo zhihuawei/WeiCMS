@@ -17,5 +17,9 @@ use App\Http\Controllers\Controller;
 
 class WeicmsController extends Controller
 {
+    public function __construct()
+    {
+        //构造函数获取一些公用数据放入到公共文件中
+    }
 
 }
