@@ -4,18 +4,14 @@
  * Created by Pocket Knife Technology.
  * Author: Wei ZhiHua <zhihua_wei@foxmail.com>
  * Date: 2017/2/5 0005
- * Time: 下午 4:32
+ * Time: 下午 4:54
  * Project: WeiCMS
- * Power: 前台首页控制器
+ * Power: 后台登录控制器
  * =================================================
  */
-namespace App\Http\Controllers\Weihome;
 
+namespace App\Http\Controllers\Weicms;
 
-class IndexController extends WeihomeController
+class LoginController extends WeicmsController
 {
-    public function index(){
-        return "WeiCMS首页";
-    }
-
 }

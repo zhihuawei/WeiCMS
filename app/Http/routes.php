@@ -1,16 +1,5 @@
 <?php
 
-/*
-|--------------------------------------------------------------------------
-| Routes File
-|--------------------------------------------------------------------------
-|
-| Here is where you will register all of the routes in an application.
-| It's a breeze. Simply tell Laravel the URIs it should respond to
-| and give it the controller to call when that URI is requested.
-|
-*/
-
 /**
  * ========================================================================
  * 前台路由
@@ -30,12 +19,13 @@ Route::group(['middleware' => ['web'], 'prefix' => 'admin', 'namespace' => 'Weic
     //登录
     Route::get('login', 'IndexController@index');
 });
+
 /**
  * ========================================================================
  * 后台路由
  * ========================================================================
  */
-Route::group(['middleware' => ['web', 'admin.login'], 'prefix' => 'admin', 'namespace' => 'Weicms'], function () {
+Route::group(['middleware' => ['web', 'weicms.login'], 'prefix' => 'weicms', 'namespace' => 'Weicms'], function () {
     //前台首页
     Route::get('/', 'IndexController@index');
 });
