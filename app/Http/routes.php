@@ -16,8 +16,9 @@ Route::group(['middleware' => ['web'], 'namespace' => 'Weihome'], function () {
  * ========================================================================
  */
 Route::group(['middleware' => ['web'], 'prefix' => 'admin', 'namespace' => 'Weicms'], function () {
+    Route::get('/', 'LoginController@login');
     //登录
-    Route::get('login', 'IndexController@index');
+    Route::get('login', 'LoginController@login');
 });
 
 /**
