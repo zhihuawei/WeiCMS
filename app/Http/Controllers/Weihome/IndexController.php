@@ -14,5 +14,8 @@ namespace App\Http\Controllers\Weihome;
 
 class IndexController extends WeihomeController
 {
+    public function index(){
+        return "shouye";
+    }
 
 }
