@@ -1,92 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c12a334a-187c-40ad-920c-1d3a00f4ec42" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/css/animate.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/images/base/bg1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/images/base/bg2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/images/base/del_hover.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/images/base/del_on.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/images/base/foot-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/images/base/s6-left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/images/base/s6-left2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/images/base/s6-right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/images/base/s6-right2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/images/wap/plug.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/images/wap/plugmenu1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/images/wap/plugmenu3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/images/wap/plugmenu5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/images/wap/plugmenu6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/js/bootstrap-submenu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/js/common.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/js/docs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/js/headermini.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/js/holder.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/js/ie10-viewport-bug-workaround.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/js/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/js/jquery-1.11.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/js/jquery.SuperSlide.2.1.1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/js/owl.carousel.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/js/stellar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/js/wow.min.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/css/animate.min.css" afterPath="$PROJECT_DIR$/resources/assets/weihome/css/animate.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/resources/assets/weihome/css/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/css/font-awesome.css" afterPath="$PROJECT_DIR$/resources/assets/weihome/css/font-awesome.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/css/style.css" afterPath="$PROJECT_DIR$/resources/assets/weihome/css/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/resources/assets/weihome/fonts/FontAwesome.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/resources/assets/weihome/fonts/fontawesome-webfont.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/resources/assets/weihome/fonts/fontawesome-webfont.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/resources/assets/weihome/fonts/fontawesome-webfont.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/resources/assets/weihome/fonts/fontawesome-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/resources/assets/weihome/fonts/fontawesome-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/resources/assets/weihome/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/resources/assets/weihome/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/resources/assets/weihome/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/resources/assets/weihome/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/resources/assets/weihome/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/images/base/bg1.jpg" afterPath="$PROJECT_DIR$/resources/assets/weihome/images/base/bg1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/images/base/bg2.jpg" afterPath="$PROJECT_DIR$/resources/assets/weihome/images/base/bg2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/images/base/del_hover.gif" afterPath="$PROJECT_DIR$/resources/assets/weihome/images/base/del_hover.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/images/base/del_on.gif" afterPath="$PROJECT_DIR$/resources/assets/weihome/images/base/del_on.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/images/base/foot-bg.jpg" afterPath="$PROJECT_DIR$/resources/assets/weihome/images/base/foot-bg.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/images/base/s6-left.png" afterPath="$PROJECT_DIR$/resources/assets/weihome/images/base/s6-left.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/images/base/s6-left2.png" afterPath="$PROJECT_DIR$/resources/assets/weihome/images/base/s6-left2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/images/base/s6-right.png" afterPath="$PROJECT_DIR$/resources/assets/weihome/images/base/s6-right.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/images/base/s6-right2.png" afterPath="$PROJECT_DIR$/resources/assets/weihome/images/base/s6-right2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/images/wap/plug.png" afterPath="$PROJECT_DIR$/resources/assets/weihome/images/wap/plug.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/images/wap/plugmenu1.png" afterPath="$PROJECT_DIR$/resources/assets/weihome/images/wap/plugmenu1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/images/wap/plugmenu3.png" afterPath="$PROJECT_DIR$/resources/assets/weihome/images/wap/plugmenu3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/images/wap/plugmenu5.png" afterPath="$PROJECT_DIR$/resources/assets/weihome/images/wap/plugmenu5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/images/wap/plugmenu6.png" afterPath="$PROJECT_DIR$/resources/assets/weihome/images/wap/plugmenu6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/js/bootstrap-submenu.js" afterPath="$PROJECT_DIR$/resources/assets/weihome/js/bootstrap-submenu.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/resources/assets/weihome/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/js/common.js" afterPath="$PROJECT_DIR$/resources/assets/weihome/js/common.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/js/docs.js" afterPath="$PROJECT_DIR$/resources/assets/weihome/js/docs.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/js/headermini.js" afterPath="$PROJECT_DIR$/resources/assets/weihome/js/headermini.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/js/holder.min.js" afterPath="$PROJECT_DIR$/resources/assets/weihome/js/holder.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/js/ie10-viewport-bug-workaround.js" afterPath="$PROJECT_DIR$/resources/assets/weihome/js/ie10-viewport-bug-workaround.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/js/index.js" afterPath="$PROJECT_DIR$/resources/assets/weihome/js/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/js/jquery-1.11.3.min.js" afterPath="$PROJECT_DIR$/resources/assets/weihome/js/jquery-1.11.3.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/js/jquery.SuperSlide.2.1.1.js" afterPath="$PROJECT_DIR$/resources/assets/weihome/js/jquery.SuperSlide.2.1.1.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/js/owl.carousel.min.js" afterPath="$PROJECT_DIR$/resources/assets/weihome/js/owl.carousel.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/js/stellar.js" afterPath="$PROJECT_DIR$/resources/assets/weihome/js/stellar.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/js/wow.min.js" afterPath="$PROJECT_DIR$/resources/assets/weihome/js/wow.min.js" />
-    </list>
+    <list default="true" id="c12a334a-187c-40ad-920c-1d3a00f4ec42" name="Default" comment="" />
     <ignored path="WeiCMS.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -117,11 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WeicmsController.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="WeicmsController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Weicms/WeicmsController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.6499417">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
               <folding>
                 <element signature="e#6#300#0#PHP" expanded="true" />
               </folding>
@@ -134,16 +49,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-7.6923075">
               <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="docs.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/assets/weihome/js/docs.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="2.377232">
-              <caret line="71" column="37" selection-start-line="71" selection-start-column="24" selection-end-line="71" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -280,28 +185,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WeiCMS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WeiCMS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="weihome" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -673,16 +556,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Weicms/WeicmsController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <element signature="e#6#300#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.6923075">
@@ -706,6 +579,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/weihome/js/docs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.703125">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Weicms/LoginController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.6923075">
@@ -714,11 +595,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/assets/weihome/js/docs.js">
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Weicms/WeicmsController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.377232">
-          <caret line="71" column="37" selection-start-line="71" selection-start-column="24" selection-end-line="71" selection-end-column="37" />
-          <folding />
+        <state vertical-scroll-proportion="0.6499417">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="e#6#300#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
