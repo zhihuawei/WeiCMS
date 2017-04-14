@@ -16,7 +16,8 @@ namespace App\Http\Controllers\Weihome;
 class IndexController extends WeihomeController
 {
     public function index(){
-        return "WeiCMS首页";
+        return view('weihome.index');
+        //return "WeiCMS首页";
     }
 
 }
