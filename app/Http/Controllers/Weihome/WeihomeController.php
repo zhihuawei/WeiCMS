@@ -19,7 +19,7 @@ class WeihomeController extends Controller
 {
     public function __construct()
     {
-
+        //前台构造函数，分享数据
     }
 }
  
