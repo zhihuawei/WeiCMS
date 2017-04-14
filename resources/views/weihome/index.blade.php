@@ -1,5 +1,5 @@
 @extends('layouts.weihome')
 
-@section('content')
+@section('main-content')
     hahahhaha
 @endsection

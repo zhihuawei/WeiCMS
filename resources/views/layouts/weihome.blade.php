@@ -34,7 +34,8 @@
     <!-- END SCRIPT -->
 </head>
 <body>
-@yield('content')
+
+@yield('main-content')
 
 
 <script type="text/javascript" src="{{asset('resources/assets/weihome/js/common.js')}}"></script>
