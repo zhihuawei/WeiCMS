@@ -2,7 +2,7 @@
 <html lang="zh-CN">
 
 <head>
-    <meta name="Generator" content="CmsEasy 5_6_0_20170105_UTF8"/>
+    <meta name="Generator" content="WeiCMS 快速建站系统"/>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -34,6 +34,127 @@
     <!-- END SCRIPT -->
 </head>
 <body>
+
+    <div class="hidden-xs">
+        <div id="header" class="clearfix">
+            <div class="logo-box">
+                <a href="#"><img src="images/logo.png" /></a>
+            </div>
+            <div class="menu">
+                <ul>
+                    <li>
+                        <a href="#" class="on">网站首页</a>
+                    </li>
+                    <li>
+                        <a href="fuzhuang.html" class="">信息</a>
+                        <div class="menu2">
+                            <ul>
+                                <li>
+                                    <a href="demo/business-template/V387/chang-xiu">信息</a>
+                                </li>
+                                <li>
+                                    <a href="demo/business-template/V387/tixu">信息</a>
+                                </li>
+                                <li>
+                                    <a href="demo/business-template/V387/qiu-dong">信息</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="aboutus.html" class="">关于</a>
+                        <div class="menu2">
+                            <ul>
+                                <li>
+                                    <a href="demo/business-template/V387/about_us">关于我们</a>
+                                </li>
+                                <li>
+                                    <a href="news.html">新闻</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="#" class="">周边</a>
+                    </li>
+                    <li>
+                        <a href="pingpaigushi.html" class="">故事</a>
+                    </li>
+                    <li>
+                        <a href="lianxi.html" class="">联系</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <script src="{{asset('resources/assets/weihome/js/headermini.js')}}"></script>
+    </div>
+
+
+    <div class="hidden-sm hidden-md hidden-lg">
+        <!-- nav -->
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only">WeiCMS 快速建站系统</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+
+                    <!-- logo -->
+                    <a href="#" class="navbar-brand text-center"><img src="images/logo.png" class="img-responsive" alt="高档男装设计公司响应式网站模板" /></a>
+                    <!-- logo end -->
+                </div>
+
+                <div id="navbar" class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li class="oen active">
+                            <a href="#">网站首页</a>
+                        </li>
+                        <li class="oen dropdown">
+                            <a href="#" data-toggle="dropdown" data-submenu="">服装<span class="caret"></span></a>
+                            <ul class="two dropdown-menu">
+                                <li>
+                                    <a title="长袖" href="#">长袖</a>
+                                </li>
+                                <li>
+                                    <a title="T桖" href="#">T桖</a>
+                                </li>
+                                <li>
+                                    <a title="秋冬" href="#">秋冬</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="oen dropdown">
+                            <a href="#" data-toggle="dropdown" data-submenu="">关于<span class="caret"></span></a>
+                            <ul class="two dropdown-menu">
+                                <li>
+                                    <a title="关于我们" href="#">关于我们</a>
+                                </li>
+                                <li>
+                                    <a title="新闻" href="#">新闻</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="oen">
+                            <a href="#">品牌周边</a>
+                        </li>
+                        <li class="oen">
+                            <a href="#">品牌故事</a>
+                        </li>
+                        <li class="oen">
+                            <a href="#">联系</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+
+
+
+
 
 @yield('main-content')
 

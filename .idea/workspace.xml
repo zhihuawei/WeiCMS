@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c12a334a-187c-40ad-920c-1d3a00f4ec42" name="Default" comment="路由">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/layouts/weihome.blade.php" afterPath="$PROJECT_DIR$/resources/views/layouts/weihome.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/weihome/index.blade.php" afterPath="$PROJECT_DIR$/resources/views/weihome/index.blade.php" />
     </list>
     <ignored path="WeiCMS.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,11 +47,9 @@
       <file leaf-file-name="weihome.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/layouts/weihome.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1588785">
-              <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
-              <folding>
-                <element signature="n#script#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
+            <state vertical-scroll-proportion="0.4906542">
+              <caret line="158" column="22" selection-start-line="158" selection-start-column="22" selection-end-line="158" selection-end-column="22" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -142,8 +139,8 @@
         <option value="$PROJECT_DIR$/app/Http/Controllers/Weihome/IndexController.php" />
         <option value="$PROJECT_DIR$/resources/assets/weihome/js/respond-1.1.0.min.js" />
         <option value="$PROJECT_DIR$/resources/assets/weihome/js/common.js" />
-        <option value="$PROJECT_DIR$/resources/views/layouts/weihome.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/weihome/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/weihome.blade.php" />
       </list>
     </option>
   </component>
@@ -922,11 +919,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/layouts/weihome.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1588785">
-          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
-          <folding>
-            <element signature="n#script#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.4906542">
+          <caret line="158" column="22" selection-start-line="158" selection-start-column="22" selection-end-line="158" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
