@@ -33,7 +33,7 @@
     <![endif]-->
 </head>
 <body>
-
+@yield('content')
 
 </body>
 
