@@ -10,11 +10,13 @@
     <meta name="renderer" content="webkit">
     <!-- 解决国内双核浏览器优先试用webkit的问题 -->
     <title>WeiCMS 快速建站系统</title>
-    <!-- Bootstrap -->
+    <!-- BEGIN STYLE -->
     <link href="{{asset('resources/assets/weihome/css/bootstrap.min.css')}}" rel="stylesheet">
     <link href="{{asset('resources/assets/weihome/css/style.css')}}" rel="stylesheet">
     <link href="{{asset('resources/assets/weihome/css/font-awesome.css')}}" rel="stylesheet">
-    <link href="{{asset('resources/assets/weihome/css/animate.min.css')}}"  rel="stylesheet">
+    <link href="{{asset('resources/assets/weihome/css/animate.min.css')}}" rel="stylesheet">
+    <!-- END STYLE -->
+    <!-- BEGIN SCRIPT -->
     <script src="{{asset('resources/assets/weihome/js/jquery-1.11.3.min.js')}}" type="text/javascript"></script>
     <script src="{{asset('resources/assets/weihome/js/jquery.SuperSlide.2.1.1.js')}}" type="text/javascript"></script>
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -24,17 +26,46 @@
             new WOW().init();
         }
     </script>
-
-
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
-    <script src="/cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-    <script src="/cdn.bootcss.com/respond./demo/business-template/V387/template/CmsEasy_V_387/skin/js/1.4.2/respond.min.js"></script>
+    <script src="{{asset('resources/assets/weihome/js/html5shiv.js')}}"></script>
+    <script src="{{asset('resources/assets/weihome/js/respond-1.1.0.min.js')}}"></script>
     <![endif]-->
+    <!-- END SCRIPT -->
 </head>
 <body>
 @yield('content')
 
-</body>
 
+<script type="text/javascript" src="{{asset('resources/assets/weihome/js/common.js')}}"></script>
+<script>
+    window._bd_share_config = {
+        "common": {
+            "bdSnsKey": {},
+            "bdText": "",
+            "bdMini": "2",
+            "bdMiniList": false,
+            "bdPic": "",
+            "bdStyle": "0",
+            "bdSize": "16"
+        },
+        "slide": {
+            "type": "slide",
+            "bdImg": "6",
+            "bdPos": "right",
+            "bdTop": "100"
+        },
+    };
+    with (document) 0[(getElementsByTagName('head')[0] || body).appendChild(createElement('script')).src = 'http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=' + ~(-new Date() / 36e5)];
+</script>
+
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="{{asset('resources/assets/weihome/js/bootstrap.min.js')}}"></script>
+<!-- Just to make our placeholder images work. Don't actually copy the next line! -->
+<script src="{{asset('resources/assets/weihome/js/holder.min.js')}}"></script>
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+<script src="{{asset('resources/assets/weihome/js/ie10-viewport-bug-workaround.js')}}"></script>
+<script src="{{asset('resources/assets/weihome/js/bootstrap-submenu.js')}}"></script>
+
+</body>
 </html>
