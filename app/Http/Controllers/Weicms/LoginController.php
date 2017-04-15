@@ -15,7 +15,8 @@ namespace App\Http\Controllers\Weicms;
 
 class LoginController extends WeicmsController
 {
-    public function login(){
+    public function login()
+    {
         return "login";
     }
 }
