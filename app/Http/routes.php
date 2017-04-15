@@ -8,6 +8,7 @@
 Route::group(['middleware' => ['web'], 'namespace' => 'Weihome'], function () {
     //前台首页
     Route::get('/', 'IndexController@index');
+    Route::get('test', 'IndexController@test');
 });
 
 /**

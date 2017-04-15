@@ -20,4 +20,9 @@ class IndexController extends WeihomeController
         //return "WeiCMS首页";
     }
 
+    public function test()
+    {
+        return 123;
+    }
+
 }
